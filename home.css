@@ -1,0 +1,12 @@
+* {
+    all: unset;
+    /* ou */
+    all: initial;
+    /* ou */
+    all: revert;
+  }
+
+.pet-image {
+    width: 300px; /* define a largura da imagem */
+    height: 150px; /* define a altura da imagem */ 
+}
